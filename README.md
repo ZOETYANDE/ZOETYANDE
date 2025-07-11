@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'am looking to collaborate on projects related to cybersecurity
-And also if you have an open entry level position into SOC don't Hesitate
+A proactive and hands-on Junior SOC Analyst with deep project-based experience in SIEM deployment, penetration testing, and real-time incident response. Demonstrated leadership in self-initiated cybersecurity labs using Wazuh, MITRE ATT&CK, and GCP. Known for fast learning, documentation clarity, and eagerness to contribute to security-driven teams. Open to remote or visa-sponsored roles in Europe, Asia-Pacific, or Africa.
 
 
 ## 🌐 Socials:
